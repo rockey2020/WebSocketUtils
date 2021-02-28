@@ -1,6 +1,6 @@
 {
-  "name": "WebSocketUtils",
-  "version": "2.0.5",
+  "name": "web-socket-utils",
+  "version": "1.0.0",
   "description": "da-flex布局方案",
   "main": "./dist/index.min.css",
   "scripts": {

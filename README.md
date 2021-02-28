@@ -1,4 +1,8 @@
 # WebSocketUtils
+已发布至npm平台
+
+https://www.npmjs.com/package/web-socket-utils
+
 **参数**
 ```javascript
 //WebSocket实例
