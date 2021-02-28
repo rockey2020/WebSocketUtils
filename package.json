@@ -1,0 +1,39 @@
+{
+  "name": "WebSocketUtils",
+  "version": "2.0.5",
+  "description": "da-flex布局方案",
+  "main": "./dist/index.min.css",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockey2020/WebSocketUtils.git"
+  },
+  "keywords": [
+    "WebSocketUtils"
+  ],
+  "author": "rockey2020",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockey2020/WebSocketUtils/issues"
+  },
+  "homepage": "https://github.com/rockey2020/WebSocketUtils#readme",
+  "browserslist": [
+    "defaults",
+    "ie >= 10",
+    "ios >= 7",
+    "> 1%"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/plugin-syntax-class-properties": "^7.12.13",
+    "@babel/plugin-transform-runtime": "^7.13.8",
+    "@babel/preset-env": "^7.13.8",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^3.0.0",
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
